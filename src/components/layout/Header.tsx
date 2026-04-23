@@ -42,7 +42,7 @@ export function Header() {
 
         <div className="flex items-center gap-4">
           <Button variant="outline" size="sm" className="hidden sm:flex" asChild>
-            <Link href="https://wa.me/55000000000" target="_blank">
+            <Link href="https://wa.me/5541984967461" target="_blank">
               <Phone className="mr-2 h-4 w-4" />
               WhatsApp
             </Link>

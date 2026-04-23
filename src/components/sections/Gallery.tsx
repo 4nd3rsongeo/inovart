@@ -74,13 +74,14 @@ export function Gallery() {
                     </div>
                   </button>
                 </DialogTrigger>
-                <DialogContent className="max-w-4xl p-1 bg-transparent border-none">
-                  <div className="relative aspect-video w-full">
+                <DialogContent className="max-w-[95vw] md:max-w-[90vw] h-[85vh] p-0 bg-black/95 border-none flex items-center justify-center overflow-hidden">
+                  <div className="relative w-full h-full">
                     <Image
                       src={src}
                       alt={`Projeto InovArt ${index + 1}`}
                       fill
-                      className="object-contain rounded-lg"
+                      className="object-contain"
+                      sizes="95vw"
                     />
                   </div>
                 </DialogContent>

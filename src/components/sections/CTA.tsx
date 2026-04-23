@@ -41,14 +41,14 @@ export function CTA() {
             className="flex flex-col sm:flex-row gap-6 justify-center"
           >
             <Button size="lg" variant="secondary" className="text-lg h-16 px-10 group shadow-xl" asChild>
-              <Link href="https://wa.me/55000000000" target="_blank">
+              <Link href="https://wa.me/5541984967461" target="_blank">
                 <MessageSquare className="mr-2 h-6 w-6" />
                 Falar no WhatsApp
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
               </Link>
             </Button>
             <Button size="lg" variant="outline" className="text-lg h-16 px-10 border-white/20 hover:bg-white/10" asChild>
-              <Link href="tel:+55000000000">
+              <Link href="tel:+5541984967461">
                 <Phone className="mr-2 h-5 w-5" />
                 Ligar agora
               </Link>
