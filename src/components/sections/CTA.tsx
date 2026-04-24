@@ -40,17 +40,11 @@ export function CTA() {
             transition={{ delay: 0.4 }}
             className="flex flex-col sm:flex-row gap-6 justify-center"
           >
-            <Button size="lg" variant="secondary" className="text-lg h-16 px-10 group shadow-xl" asChild>
+            <Button size="lg" className="text-lg h-16 px-10 group shadow-xl bg-green-600 hover:bg-green-700 text-white border-none" asChild>
               <Link href="https://wa.me/5541984967461" target="_blank">
                 <MessageSquare className="mr-2 h-6 w-6" />
-                Falar no WhatsApp
+                WhatsApp: (41) 98496-7461
                 <ArrowRight className="ml-2 h-5 w-5 group-hover:translate-x-1 transition-transform" />
-              </Link>
-            </Button>
-            <Button size="lg" variant="outline" className="text-lg h-16 px-10 border-white/20 hover:bg-white/10" asChild>
-              <Link href="tel:+5541984967461">
-                <Phone className="mr-2 h-5 w-5" />
-                Ligar agora
               </Link>
             </Button>
           </motion.div>

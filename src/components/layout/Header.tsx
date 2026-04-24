@@ -23,7 +23,7 @@ export function Header() {
       )}
     >
       <div className="container mx-auto px-4 flex items-center justify-between">
-        <Link href="/" className="relative h-10 w-32">
+        <Link href="/" className="relative h-16 w-64">
           <Image
             src="/assets/logo-inovart.jpg"
             alt="InovArt Logo"
@@ -41,7 +41,7 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-4">
-          <Button variant="outline" size="sm" className="hidden sm:flex" asChild>
+          <Button variant="outline" size="sm" className="hidden sm:flex bg-green-600 hover:bg-green-700 text-white border-none" asChild>
             <Link href="https://wa.me/5541984967461" target="_blank">
               <Phone className="mr-2 h-4 w-4" />
               WhatsApp
