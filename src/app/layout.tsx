@@ -7,9 +7,9 @@ import { Footer } from "@/components/layout/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "InovArt Pinturas | Acabamento Residencial e Comercial Premium",
+  title: "R S INOVART PINTURAS | Acabamento Residencial e Comercial Premium",
   description: "Especialistas em pintura de alto padrão, texturas e acabamentos. Transformamos seu ambiente com inovação, limpeza e precisão.",
-  keywords: ["pintura residencial", "pintura comercial", "acabamento premium", "pintor são paulo", "inovart pinturas"],
+  keywords: ["pintura residencial", "pintura comercial", "acabamento premium", "pintor são paulo", "R S INOVART PINTURAS", "inovart pinturas"],
 };
 
 export default function RootLayout({

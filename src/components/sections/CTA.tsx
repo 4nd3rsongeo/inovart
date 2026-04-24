@@ -29,7 +29,7 @@ export function CTA() {
             transition={{ delay: 0.2 }}
             className="text-xl text-primary-foreground/80 mb-10"
           >
-            Peça agora seu orçamento gratuito e descubra como a InovArt pode 
+            Peça agora seu orçamento gratuito e descubra como a R S INOVART PINTURAS pode 
             trazer mais cor e vida para o seu espaço com acabamento premium.
           </motion.p>
 

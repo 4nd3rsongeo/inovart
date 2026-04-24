@@ -26,7 +26,7 @@ export function Header() {
         <Link href="/" className="relative h-16 w-64">
           <Image
             src="/assets/logo-inovart.jpg"
-            alt="InovArt Logo"
+            alt="R S INOVART PINTURAS Logo"
             fill
             className="object-contain"
             priority

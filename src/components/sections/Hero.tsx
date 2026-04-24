@@ -36,7 +36,7 @@ export function Hero() {
               Transformamos seu ambiente com <span className="text-primary">inovação</span> e precisão.
             </h1>
             <p className="text-lg md:text-xl text-white/80 mb-8 max-w-2xl">
-              A InovArt oferece soluções completas em pintura residencial e comercial, 
+              A R S INOVART PINTURAS oferece soluções completas em pintura residencial e comercial, 
               focando no acabamento impecável e na satisfação total de nossos clientes.
             </p>
             

@@ -11,7 +11,7 @@ export function Footer() {
             <Link href="/" className="relative h-12 w-40 block">
               <Image
                 src="/assets/logo-inovart.jpg"
-                alt="InovArt Logo"
+                alt="R S INOVART PINTURAS Logo"
                 fill
                 className="object-contain brightness-0 invert"
               />
@@ -65,14 +65,14 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-primary shrink-0" />
-                <span>contato@inovart.com.br</span>
+                <span>contato@rsinovart.com.br</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="mt-12 pt-8 border-t border-white/10 text-center text-xs text-white/40">
-          <p>© {new Date().getFullYear()} InovArt Pinturas Premium. Todos os direitos reservados.</p>
+          <p>© {new Date().getFullYear()} R S INOVART PINTURAS. Todos os direitos reservados.</p>
         </div>
       </div>
     </footer>

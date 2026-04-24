@@ -38,7 +38,7 @@ export function Features() {
             viewport={{ once: true }}
             className="text-3xl md:text-4xl font-bold mb-4"
           >
-            Por que escolher a <span className="text-primary">InovArt</span>?
+            Por que escolher a <span className="text-primary">R S INOVART PINTURAS</span>?
           </motion.h2>
           <motion.p
             initial={{ opacity: 0, y: 20 }}

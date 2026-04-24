@@ -64,7 +64,7 @@ export function Gallery() {
                   <button className="w-full relative aspect-auto cursor-zoom-in">
                     <Image
                       src={src}
-                      alt={`Projeto InovArt ${index + 1}`}
+                      alt={`Projeto R S INOVART PINTURAS ${index + 1}`}
                       width={500}
                       height={500}
                       className="w-full h-auto object-cover transition-transform duration-500 group-hover:scale-110"
@@ -78,7 +78,7 @@ export function Gallery() {
                   <div className="relative w-full h-full">
                     <Image
                       src={src}
-                      alt={`Projeto InovArt ${index + 1}`}
+                      alt={`Projeto R S INOVART PINTURAS ${index + 1}`}
                       fill
                       className="object-contain"
                       sizes="95vw"

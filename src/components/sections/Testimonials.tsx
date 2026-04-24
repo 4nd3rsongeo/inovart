@@ -8,13 +8,13 @@ const testimonials = [
   {
     name: "Ricardo Silva",
     role: "Proprietário Residencial",
-    text: "A equipe da InovArt superou todas as expectativas. O acabamento das paredes ficou perfeito e eles entregaram a casa impecavelmente limpa.",
+    text: "A equipe da R S INOVART PINTURAS superou todas as expectativas. O acabamento das paredes ficou perfeito e eles entregaram a casa impecavelmente limpa.",
     rating: 5,
   },
   {
     name: "Ana Oliveira",
     role: "Arquiteta",
-    text: "Trabalho com a InovArt em diversos projetos. A precisão técnica e o respeito aos prazos são diferenciais raros no mercado de pintura.",
+    text: "Trabalho com a R S INOVART PINTURAS em diversos projetos. A precisão técnica e o respeito aos prazos são diferenciais raros no mercado de pintura.",
     rating: 5,
   },
   {
@@ -45,7 +45,7 @@ export function Testimonials() {
             transition={{ delay: 0.2 }}
             className="text-muted-foreground"
           >
-            A satisfação de quem já transformou seus ambientes com a InovArt.
+            A satisfação de quem já transformou seus ambientes com a R S INOVART PINTURAS.
           </motion.p>
         </div>
 
